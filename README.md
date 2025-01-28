@@ -1,6 +1,14 @@
 ## Olá! 👋
 
- ✨Sou a Hanni✨, UX Designer em transição para o desenvolvimento Front-end. Atualmente, estou aprendendo HTML, CSS e JavaScript para expandir minhas habilidades e criar experiências digitais completas. Quero unir criatividade e funcionalidade para desenvolver soluções centradas no usuário. Aqui mostrarei um pouco do meu avanço!
+ ✨Sou a Hanni✨
+ 
+ -❄️ Formada em Design de Produtos Digitais. 
+ 
+ -❄️ User Experience e User Interface.
+ 
+ -❄️ Transição para desenvolvimento Front-end.
+ 
+ -❄️ Aprendendo HTML, CSS e JavaScript.
 
 
 ## Minhas Skills
